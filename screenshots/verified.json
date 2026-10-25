@@ -1,0 +1,23 @@
+{
+  "number": 8,
+  "source": "actual Android runtime",
+  "reviewed": true,
+  "complete": true,
+  "screenshots": [
+    {
+      "file": "01-login-errors.png",
+      "description": "Авторизація з помилками валідації",
+      "source": "android/02.png"
+    },
+    {
+      "file": "02-signup-errors.png",
+      "description": "Реєстрація з помилками валідації",
+      "source": "android/04.png"
+    },
+    {
+      "file": "03-reset-errors.png",
+      "description": "Відновлення з помилкою валідації",
+      "source": "android/07.png"
+    }
+  ]
+}
